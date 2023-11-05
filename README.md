@@ -46,11 +46,12 @@ DrumKit features seven different sound instruments:
 DrumKit is live and can be experienced directly on [hardikarora20.github.io/DrumKit](https://hardikarora20.github.io/DrumKit).
 
 <!-- <a href="#screenshots"></a>
-## Screenshots 📸 -->
+## Screenshots 📸 
 
 <div align="center">
   <img src="screenshots/drumkit.png">
 </div>
+-->
 
 <a href="#contributing"></a>
 ## Contributing 🤝
